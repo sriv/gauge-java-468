@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14"/>
+  <classpathentry kind="src" path="src/test/java"/>
+  <classpathentry kind="output" path="gauge_bin"/>
+  <classpathentry kind="lib" path="/home/steam/.gauge/plugins/java/0.7.9/libs/assertj-core-3.16.1.jar"/>
+  <classpathentry kind="lib" path="/home/steam/.gauge/plugins/java/0.7.9/libs/gauge-java-0.7.9.jar"/>
+</classpath>
